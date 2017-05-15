@@ -1,0 +1,32 @@
+
+<property name="documentAccessorFactory">
+	<bean class="com.arondor.viewer.cm.macsf.CMMacsfDocumentAccessorFactory">
+		<property name="cmConnection">
+			<bean class="com.arondor.viewer.cm.CMConnection" scope="prototype">
+				<property name="dsType" value="ICM" />
+				<property name="serverName" value="ICMNLSDB" />
+				<property name="userId" value="icmadmin" />
+				<property name="password" value="Icmadmin" />
+			</bean>
+		</property>
+		<property name="dkConnection">
+			<bean class="com.arondor.viewer.cm.DKConnection" scope="prototype">
+				<property name="dataStoreName" value="ICMNLSDB" />
+				<property name="user" value="icmadmin" />
+				<property name="password" value="Icmadmin" />
+			</bean>
+		</property>
+		<property name="serviceVisionneuse">
+			<bean class="fr.mediassur.visionneuse.services.ServiceVisionneuse"
+				scope="prototype">
+				<constructor-arg>
+					<bean class="fr.mediassur.visionneuse.services.common.ProprietesJ2C">
+						<constructor-arg value="WASGedVisioCICS.properties" />
+						<property name="cicsUserName " value="?????" />
+						<property name="cicsUserPassword" value="????" />
+					</bean>
+				</constructor-arg>
+			</bean>
+		</property>
+	</bean>
+</property>

@@ -1,0 +1,226 @@
+Code Application,"Code pièce",Libellé pièce 
+RS,SOCLET,Courrier sociétaire 
+RS,PIEMEDSOC ,Pièce médicale sociétaire 
+RS,ATTESTEXL,Attestation d'exercice libéral 
+RS,ATTESTEXS ,Attestation d'exercice salarié
+RS,ATTESTRPL,Attestation remplacement
+RS,SOCLET,Courrier sociétaire 
+RS,PIECEVETO ,Pièce vétérinaire 
+RS,SOCLET,Courrier sociétaire 
+RS,DECLARLET,Déclaration 
+RS,SOCLET,Courrier sociétaire 
+RS,DISOC,Dossier individuel sociétaire
+RS,ADVERSLET,Courrier autre / divers / tiers
+RS,ADVLET,Courrier adversaire
+RS,ASSUPALET,Courrier assureur patient
+RS,AVOLET,Courrier avocat
+RS,AVOPATLET,Courrier avocat patient
+RS,CCILET,Courrier CCI
+RS,CONORDLET,Courrier conseil de l'ordre
+RS,CONTESADV,Contestation adversaire
+RS,COURTILET,Courrier courtier
+RS,DDEINDADV,Demande indemnitaire adverse
+RS,MEDCCILET,Courrier médiateur CCI
+RS,ONIAMLET,Courrier ONIAM
+RS,PATLET,Courrier patient
+RS,SOCLET,Courrier sociétaire
+RS,DECICNO,Décision Conseil National de l'Ordre
+RS,DECITRIBC,Décision tribunal correctionnel
+RS,DEVISOC ,Devis sociétaire 
+RS,FACTAUTDE ,Facture autre / facture dépens 
+RS,FACTHUISS ,Facture huissier 
+RS,FACTHUISS ,Facture huissier 
+RS,HONOAVOC,Honoraires avocat 
+RS,HONOCHIRD ,Honoraires chirurgiens dentistes 
+RS,HONOMED ,Honoraires médecins
+RS,HONOVETO ,Honoraires vétérinaires 
+RS,QUITTOS ,Quittance organismes sociaux 
+RS,QUITTPAT ,Quittance patient 
+RS,CONVEXP ,Convocation expertise 
+RS,DIREADV ,Dire adverse 
+RS,DIRESOC ,Dire sociétaire 
+RS,DIRETIERS ,Dire tiers / autre partie 
+RS,PRERAPP ,Pré-rapport expertise 
+RS,RAPPAS,Rapport assistance 
+RS,RAPVETCON ,Rapport vétérinaire conseil 
+RS,CONVEXP ,Convocation expertise 
+RS,DIREADV ,Dire adverse 
+RS,DIRESOC ,Dire sociétaire 
+RS,DIRETIERS ,Dire tiers / autre partie 
+RS,MISEXPCCI ,Mission Expertise CCI 
+RS,PRERAPP ,Pré-rapport expertise 
+RS,RAPPAS,Rapport assistance 
+RS,RAPPEXP ,Rapport expertise
+RS,CONVEXP ,Convocation expertise 
+RS,DIREADV ,Dire adverse 
+RS,DIRESOC ,Dire sociétaire 
+RS,DIRETIERS ,Dire tiers / autre partie 
+RS,PRERAPP ,Pré-rapport expertise 
+RS,RAPPAS,Rapport assistance 
+RS,RAPPEXP ,Rapport expertise
+RS,CONVEXP ,Convocation expertise 
+RS,DIREADV ,Dire adverse 
+RS,DIRESOC ,Dire sociétaire 
+RS,DIRETIERS ,Dire tiers / autre partie 
+RS,PRERAPP ,Pré-rapport expertise 
+RS,PROEXPADV ,Protocole expertise signée adverse 
+RS,PROEXPSOC ,Protocole expertise signée sociétaire
+RS,RAPPAS,Rapport assistance 
+RS,RAPPEXP ,Rapport expertise
+RS,CONVEXP ,Convocation expertise 
+RS,DIREADV ,Dire adverse 
+RS,DIRESOC ,Dire sociétaire 
+RS,DIRETIERS ,Dire tiers / autre partie 
+RS,PRERAPP ,Pré-rapport expertise 
+RS,RAPPAS,Rapport assistance 
+RS,RAPPEXP ,Rapport expertise
+RS,CPAMLET,Courrier CPAM
+RS,CREANCPAM,Créance CPAM
+RS,CITADIREC,Citation directe 
+RS,PIECEADV,Pièce adverse
+RS,RAPPADV,Rapport expertise adverse
+RS,DEVIPAT,Devis patient
+RS,PIECEADV,Pièce adverse
+RS,PIEMEDPAT,Pièce médicale patient
+RS,ARRETCE ,Arrêt Conseil d'Etat 
+RS,ARRETCA ,Arrêt Cour d'Appel 
+RS,ASSIGNECA ,Assignation en cause d'appel 
+RS,ASSIDECOC ,Assignation en décla. ordonnance commune 
+RS,COMMPAIEM ,Commandement de payer 
+RS,CONCADV ,Conclusions adversaire 
+RS,CONCINCPA ,Conclusions incident patient 
+RS,CONCINSOC ,Conclusions incident sociétaire 
+RS,CONCINCTI ,Conclusions incident tiers autre partie 
+RS,CONCSOC ,Conclusions sociétaire 
+RS,CONCTIERS ,Conclusions tiers / autre partie 
+RS,CONCPAM ,Conclusions CPAM 
+RS,AVOLET ,Courrier avocat 
+RS,DECJU,Décision justice 
+RS,DESISADV ,Désistement adversaire 
+RS,DESISOC ,Désistement sociétaire
+RS,DESIMUT ,Désistement mutuelle 
+RS,MEMOIRADV ,Mémoire adversaire - administratif 
+RS,MEMCASTIE ,Mémoire cassation autre partie / tiers 
+RS,MEMCASPAT ,Mémoire cassation patient 
+RS,MEMCASSOC ,Mémoire cassation sociétaire 
+RS,MEMOIRSOC ,Mémoire sociétaire - administratif 
+RS,ORDONNREF ,Ordonnance référé 
+RS,PIEPROCAU ,Pièce procédure autre 
+RS,REQDEVTA ,Requête devant le TA 
+RS,REQAPPCAA ,Requête en appel devant la CAA 
+RS,REQUETINT ,Requête en interprétation 
+RS,REQRECTEM ,Requête en rectification erreur matériel 
+RS,REQREFADM ,Requête référé administratif 
+RS,SAISINCE ,Saisine Conseil Etat 
+RS,NOTIFDECI ,Signification / notification décision 
+RS,AVOLET ,Courrier avocat 
+RS,AVOPATLET ,Courrier avocat patient 
+RS,DESISADV ,Désistement adversaire 
+RS,PIEPROCAU ,Pièce procédure autre 
+RS,PROTRANS,Protocole transactionnel
+RS,AVISCCI ,Avis CCI 
+RS,CONVRECCI ,Convocation réunion CCI 
+RS,AVOLET ,Courrier avocat 
+RS,AVOPATLET ,Courrier avocat patient 
+RS,MEDCCILET ,Courrier médiateur CCI 
+RS,CCILET ,Courrier CCI 
+RS,ONIAMLET ,Courrier ONIAM 
+RS,DDECONCCI ,Demande Conciliation CCI 
+RS,DESISADV ,Désistement adversaire 
+RS,MEMCCITIE ,Mémoire CCI autre partie / tiers 
+RS,MEMCCIPAT ,Mémoire CCI patient 
+RS,MEMCCISOC ,Mémoire CCI sociétaire 
+RS,PIEPROCAU ,Pièce procédure autre 
+RS,PVCONCIL ,PV de conciliation 
+RS,PVNOCONCIL ,PV de non conciliation 
+RS,SAISINCCI ,Saisine CCI 
+RS,ARRETCA ,Arrêt Cour d'Appel 
+RS,ARRETCCAS ,Arrêt Cour de Cassation 
+RS,ASSIGNFON ,Assignation au fond 
+RS,ASSIGNECA ,Assignation en cause d'appel 
+RS,ASSIDECOC ,Assignation en décla. ordonnance commune 
+RS,ASSIGNREF ,Assignation en référé 
+RS,COMMPAIEM ,Commandement de payer 
+RS,CONCADV ,Conclusions adversaire 
+RS,CONCINCPA ,Conclusions incident patient 
+RS,CONCINSOC ,Conclusions incident sociétaire 
+RS,CONCINCTI ,Conclusions incident tiers autre partie 
+RS,CONCSOC ,Conclusions sociétaire 
+RS,CONCTIERS ,Conclusions tiers / autre partie 
+RS,CONCPAM ,Conclusions CPAM 
+RS,AVOLET ,Courrier avocat 
+RS,AVOPATLET ,Courrier avocat patient 
+RS,DECJU,Décision justice 
+RS,DECLAAPPE ,Déclaration d'appel 
+RS,DESISADV ,Désistement adversaire 
+RS,DESISOC ,Désistement sociétaire
+RS,DESIMUT ,Désistement mutuelle 
+RS,MEMCASTIE ,Mémoire cassation autre partie / tiers 
+RS,MEMCASPAT ,Mémoire cassation patient 
+RS,MEMCASSOC ,Mémoire cassation sociétaire 
+RS,ORDONJUTE ,Ordonnance du juge des tutelles 
+RS,ORDONNMET ,Ordonnance mise en état 
+RS,ORDONNREF ,Ordonnance référé 
+RS,PIEPROCAU ,Pièce procédure autre 
+RS,REQUETINT ,Requête en interprétation 
+RS,REQRECTEM ,Requête en rectification erreur matériel 
+RS,NOTIFDECI ,Signification / notification décision 
+RS,CONVCONOR ,Convocation conciliation ordinale 
+RS,AVOLET ,Courrier avocat 
+RS,AVOPATLET ,Courrier avocat patient 
+RS,CONORDLET,Courrier conseil de l'ordre
+RS,DECICNO ,Décision Conseil National de l'Ordre 
+RS,DECICRO,Décision Conseil Régional de l'Ordre 
+RS,DECLAAPPE ,Déclaration d'appel 
+RS,DESISADV ,Désistement adversaire 
+RS,DESISOC ,Désistement sociétaire
+RS,DESIMUT ,Désistement mutuelle 
+RS,MEMCASTIE ,Mémoire cassation autre partie / tiers 
+RS,MEMCASPAT ,Mémoire cassation patient 
+RS,MEMCASSOC ,Mémoire cassation sociétaire 
+RS,MEMORDTIE ,Mémoire ordinal autre partie / tiers 
+RS,MEMORDPAT ,Mémoire ordinal patient 
+RS,MEMORDSOC ,Mémoire ordinal sociétaire 
+RS,PIEPROCAU ,Pièce procédure autre 
+RS,PVCONCIL ,PV de conciliation 
+RS,PVNOCONCIL ,PV de non conciliation 
+RS,SAISINCD ,Saisine Conseil départemental 
+RS,SAISINCE ,Saisine Conseil Etat 
+RS,SAISINCNO ,Saisine Conseil National de l'Ordre 
+RS,SAISINCRO ,Saisine Conseil Régional de l'Ordre 
+RS,ARRETCHIN ,Arrêt Chambre d'instruction 
+RS,ARRETCA ,Arrêt Cour d'Appel 
+RS,ARRETCCAS ,Arrêt Cour de Cassation 
+RS,ASSIGNECA ,Assignation en cause d'appel 
+RS,AVIS175 ,Avis juge instruction art 175 CPP 
+RS,CITACOMPP ,Citation à comparaitre au pénal 
+RS,CITADIREC ,Citation directe 
+RS,COMMPAIEM ,Commandement de payer 
+RS,CONCADV ,Conclusions adversaire 
+RS,CONCINCPA ,Conclusions incident patient 
+RS,CONCINSOC ,Conclusions incident sociétaire 
+RS,CONCINCTI ,Conclusions incident tiers autre partie 
+RS,CONCSOC ,Conclusions sociétaire 
+RS,CONCTIERS ,Conclusions tiers / autre partie 
+RS,CONCPAM ,Conclusions CPAM 
+RS,CONVJUGIN ,Convocation juge d'instruction 
+RS,CONVOPJ ,Convocation OPJ 
+RS,AVOLET ,Courrier avocat 
+RS,AVOPATLET ,Courrier avocat patient 
+RS,DECICA,Décision cour assises
+RS,DECITRIBC,Décision tribunal correctionnel
+RS,DECJU,Décision justice
+RS,DECLAAPPE ,Déclaration d'appel 
+RS,DESISADV ,Désistement adversaire 
+RS,DESISOC ,Désistement sociétaire
+RS,DESIMUT ,Désistement mutuelle 
+RS,MEMCASTIE ,Mémoire cassation autre partie / tiers 
+RS,MEMCASPAT ,Mémoire cassation patient 
+RS,MEMCASSOC ,Mémoire cassation sociétaire 
+RS,ORDJINLIE ,Ordonnance juge instruction non lieu 
+RS,ORDJIRENV ,Ordonnance juge instruction renvoi 
+RS,PIEPROCAU ,Pièce procédure autre 
+RS,REQUETINT ,Requête en interprétation 
+RS,REQRECTEM ,Requête en rectification erreur matériel 
+RS,REQUIPROC ,Réquisition procureur 
+RS,NOTIFDECI ,Signification / notification décision 
